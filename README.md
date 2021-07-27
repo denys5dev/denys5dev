@@ -1,7 +1,8 @@
 ### Hello World 👋
 I am a fullstack software engineer from Austria
 - 🔭 Working on multiple frontend and backend project using Angular and Nodejs/.NET Core
-- 🌱 Learning design patterns in depth
+- 🛩️ I love paragliding
+- 🚀 Exploring world and new technology
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/denys-arkhipenko)
