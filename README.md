@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from Austria
-- 🔭 Working on multiple frontend and backend project using Angular and Nodejs/.NET Core
+- 🔭 Working on multiple frontend and backend project using Angular and NodeJs/.NET Core
 - 🛩️ I love paragliding
 - 🚀 Exploring world and new technology
 
